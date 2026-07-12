@@ -1,2 +1,3 @@
-# apify-actor-icons
-Original, logo-free marketplace icons for ENFEX Apify Actors.
+# ENFEX Apify Actor Icons
+
+Original logo-free icon assets used by public ENFEX Apify Store listings.
